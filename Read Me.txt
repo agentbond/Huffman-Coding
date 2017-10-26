@@ -1,0 +1,23 @@
+1. NO BUGS!
+
+2. Compilation Instructions ::
+
+
+Huffman Coding includes below files :
+  Arrange3597.java, CalFrequency3597.java, codelen3597.java, decoding3597.java, encoding3597.java, hdec3597.java, henc3597.java, leaf3597.java, makeCode3597.java, Node3597.java, notLeaf3597.java, read3597.java and write3597.java
+
+> commands for Huffman Coding:
+  for encoding:
+  1. javac henc3597.java
+  2. java henc3597 filename
+
+  for decoding:
+  1. javac hdec3597.java
+  2. java hdec3597 filename 
+
+
+
+
+
+Thank you.
+
